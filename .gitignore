@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Node (au cas où tu ajoutes du build plus tard)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs (optionnel futur)
+dist/
+build/
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# Misc
+*.tmp
+*.swp
